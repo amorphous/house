@@ -1,0 +1,10 @@
+# 
+# Copyrights (C) 2012  Emmanuel Puybaret
+# Released under Free Art  Licence Art Libre http://www.artlibre.org
+# 
+newmtl invisibleBox
+illum 2
+Ka 0.4 0.4 0.4
+Kd 1.0 1.0 1.0
+Ks 0.3 0.3 0.3
+d 0

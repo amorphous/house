@@ -1,0 +1,178 @@
+<?xml version='1.0'?>
+<home version='5300' name='Extension v1.1 - walls &amp; external doors.sh3d' camera='topCamera' wallHeight='250.0'>
+  <property name='com.eteks.sweethome3d.SweetHome3D.CatalogPaneDividerLocation' value='370'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameHeight' value='1053'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameMaximized' value='true'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameWidth' value='960'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameX' value='960'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameY' value='27'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FurnitureViewportY' value='0'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.MainPaneDividerLocation' value='725'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanPaneDividerLocation' value='552'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanScale' value='1.125'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanViewportX' value='181'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanViewportY' value='306'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.ScreenHeight' value='1053'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.ScreenWidth' value='1920'/>
+  <property name='com.eteks.sweethome3d.swing.HomeComponent3D.detachedView' value='false'/>
+  <property name='com.eteks.sweethome3d.swing.HomeComponent3D.detachedViewDividerLocation' value='0.4989518'/>
+  <property name='com.eteks.sweethome3d.swing.HomeComponent3D.detachedViewHeight' value='478'/>
+  <property name='com.eteks.sweethome3d.swing.HomeComponent3D.detachedViewWidth' value='1312'/>
+  <property name='com.eteks.sweethome3d.swing.HomeComponent3D.detachedViewX' value='608'/>
+  <property name='com.eteks.sweethome3d.swing.HomeComponent3D.detachedViewY' value='602'/>
+  <furnitureVisibleProperty name='NAME'/>
+  <furnitureVisibleProperty name='WIDTH'/>
+  <furnitureVisibleProperty name='DEPTH'/>
+  <furnitureVisibleProperty name='HEIGHT'/>
+  <furnitureVisibleProperty name='VISIBLE'/>
+  <environment groundColor='00A8A8A8' skyColor='00CCE4FC' lightColor='00D0D0D0' ceillingLightColor='00D0D0D0' photoWidth='400' photoHeight='300' photoAspectRatio='VIEW_3D_RATIO' photoQuality='0' videoWidth='320' videoAspectRatio='RATIO_4_3' videoQuality='0' videoFrameRate='25'/>
+  <compass x='-70.0' y='80.0' diameter='100.0' northDirection='0.0' longitude='-0.0020362234' latitude='0.89884454' timeZone='Europe/London'/>
+  <observerCamera attribute='observerCamera' lens='PINHOLE' x='185.67677' y='274.53876' z='170.0' yaw='-8.407123' pitch='0.3691814' fieldOfView='1.0995575' time='1526644800160'/>
+  <camera attribute='topCamera' lens='PINHOLE' x='890.0686' y='110.652725' z='1421.783' yaw='1.5640768' pitch='1.1550001' fieldOfView='1.0995575' time='1526644800160'/>
+  <doorOrWindow catalogId='eTeks#doorFrame' name='Door frame' creator='eTeks' model='1' icon='0' x='507.5001' y='338.0' angle='1.5707957' width='91.5' depth='38.000763' height='208.5' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.7894737' wallDistance='0.10526316' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'/>
+  <doorOrWindow catalogId='eTeks#doorFrame' name='Door frame' creator='eTeks' model='1' icon='0' x='432.0' y='260.99994' angle='6.2831845' width='81.0' depth='15.200729' height='208.5' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.7894737' wallDistance='0.10526316' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'/>
+  <doorOrWindow catalogId='eTeks#doorFrame' name='Door frame' creator='eTeks' model='1' icon='0' x='198.0' y='555.00006' angle='3.141593' width='306.0' depth='38.000793' height='208.5' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.7894737' wallDistance='0.10526316' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'/>
+  <pieceOfFurniture catalogId='eTeks#shower' name='Shower' creator='eTeks' model='3' icon='2' x='546.0' y='70.000015' angle='1.5707964' width='80.0' depth='120.0' height='211.0' movable='false' dropOnTopElevation='0.11848341'/>
+  <pieceOfFurniture catalogId='Blend Swap CC-0#toiletsUnit' name='Toilets unit' creator='Nhumrod' model='5/toiletsUnit.obj' icon='4' x='571.4' y='223.44963' angle='1.5707964' width='35.30002' depth='69.19995' height='77.200005' movable='false' dropOnTopElevation='0.99740934'/>
+  <pieceOfFurniture catalogId='Scopia#bathroom4' name='Washbasin' creator='Scopia' model='7/bathroom4.obj' icon='6' x='575.25' y='156.75' elevation='46.0' width='61.5' depth='61.5' height='50.0' movable='false' dropOnTopElevation='0.66199994'/>
+  <doorOrWindow catalogId='eTeks#doorFrame' name='Door frame' creator='eTeks' model='1' icon='0' x='191.0' y='14.999922' width='150.0' depth='38.00075' height='208.5' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.7894737' wallDistance='0.10526316' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'/>
+  <doorOrWindow catalogId='eTeks#doorFrame' name='Door frame' creator='eTeks' model='1' icon='0' x='440.0' y='14.999933' angle='6.283185' width='81.0' depth='38.00075' height='208.5' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.7894737' wallDistance='0.10526316' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'/>
+  <doorOrWindow catalogId='eTeks#doorFrame' name='Door frame' creator='eTeks' model='1' icon='0' x='440.0' y='-272.00034' width='81.0' depth='17.734083' height='208.5' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.7894737' wallDistance='0.10526316' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'/>
+  <doorOrWindow catalogId='eTeks#doorFrame' name='Door frame' creator='eTeks' model='1' icon='0' x='386.4999' y='-130.2' angle='4.712389' width='120.5' depth='17.734083' height='208.5' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.7894737' wallDistance='0.10526316' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'/>
+  <doorOrWindow catalogId='eTeks#doorFrame' name='Door frame' creator='eTeks' model='1' icon='0' x='386.4999' y='-320.86737' angle='4.712389' width='80.0' depth='17.734083' height='208.5' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.7894737' wallDistance='0.10526316' cutOutShape='M0,0 v1 h1 v-1 z'/>
+  <pieceOfFurniture catalogId='eTeks#cooker' name='Cooker' creator='eTeks' model='9' icon='8' x='31.000008' y='-174.0' angle='4.712389' width='90.0' depth='62.0' height='85.0'/>
+  <pieceOfFurniture catalogId='Blend Swap CC-BY#table' name='Table' creator='Jay-Artist' model='11/table.obj' icon='10' x='100.149994' y='166.70001' angle='1.5707964' width='180.0' depth='70.0' height='80.0' visible='false'/>
+  <pieceOfFurniture catalogId='eTeks#texturableBox' name='Box' creator='eTeks' model='13/texturableBox.obj' icon='12' x='30.500004' y='-307.0' angle='1.5707964' width='108.0' depth='61.0' height='70.0'/>
+  <pieceOfFurniture catalogId='eTeks#texturableBox' name='Box' creator='eTeks' model='13/texturableBox.obj' icon='12' x='30.500006' y='-47.5' angle='1.5707964' width='95.0' depth='61.0' height='70.0'/>
+  <pieceOfFurniture catalogId='eTeks#texturableBox' name='Box' creator='eTeks' model='13/texturableBox.obj' icon='12' x='181.0' y='-330.5' angle='3.1415927' width='240.0' depth='61.0' height='70.0'/>
+  <pieceOfFurniture catalogId='eTeks#texturableBox' name='Box' creator='eTeks' model='13/texturableBox.obj' icon='12' x='604.49963' y='-134.83333' angle='1.5707964' width='267.0' depth='61.0' height='70.0'/>
+  <pieceOfFurniture catalogId='eTeks#texturableBox' name='Box' creator='eTeks' model='13/texturableBox.obj' icon='12' x='533.99963' y='-235.79999' width='80.0' depth='61.0' height='70.0'/>
+  <pieceOfFurniture catalogId='eTeks#texturableBox' name='Box' creator='eTeks' model='13/texturableBox.obj' icon='12' x='533.99963' y='-31.712112' width='80.0' depth='61.0' height='70.0'/>
+  <doorOrWindow name='Invisible Box' model='15/invisibleBox.obj' icon='14' x='650.0' y='-135.5' angle='1.5707964' width='113.0' depth='30.00075' height='100.0' movable='false' boundToWall='false'/>
+  <doorOrWindow name='Invisible Box' model='15/invisibleBox.obj' icon='14' x='621.0' y='156.5' angle='4.712389' width='80.0' depth='30.00075' height='100.0' movable='false' boundToWall='false'/>
+  <doorOrWindow name='Invisible Box' model='15/invisibleBox.obj' icon='14' x='567.5' y='270.0' angle='1.7484555E-7' width='50.0' depth='30.00075' height='100.0' movable='false' boundToWall='false'/>
+  <doorOrWindow name='Invisible Box' model='15/invisibleBox.obj' icon='14' x='441.7' y='605.0' angle='3.1415927' width='81.0' depth='30.00075' height='100.0' movable='false' boundToWall='false'/>
+  <doorOrWindow catalogId='eTeks#door' name='Door' creator='eTeks' model='17' icon='16' x='381.83337' y='-321.5315' angle='1.5707964' width='79.0' depth='27.067417' height='208.5' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.51724136' wallDistance='0.06896552' cutOutShape='M0,0 v1 h1 v-1 z'>
+    <sash xAxis='0.05464481' yAxis='0.5862069' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow catalogId='eTeks#door' name='Door' creator='eTeks' model='17' icon='16' x='439.97223' y='-268.63336' width='79.0' depth='27.067417' height='208.5' modelMirrored='true' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.51724136' wallDistance='0.06896552' cutOutShape='M0,0 v1 h1 v-1 z'>
+    <sash xAxis='0.05464481' yAxis='0.5862069' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow catalogId='eTeks#door' name='Door' creator='eTeks' model='17' icon='16' x='439.49316' y='25.391993' angle='6.281128' width='79.0' depth='8.0' height='208.5' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.51724136' wallDistance='0.06896552' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.05464481' yAxis='0.5862069' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow catalogId='eTeks#door' name='Door' creator='eTeks' model='17' icon='16' x='431.94016' y='257.00006' angle='3.1415927' width='79.0' depth='23.20075' height='208.5' modelMirrored='true' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.51724136' wallDistance='0.06896552' cutOutShape='M0,0 v1 h1 v-1 z'>
+    <sash xAxis='0.05464481' yAxis='0.5862069' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow catalogId='eTeks#door' name='Door' creator='eTeks' model='17' icon='16' x='517.49994' y='340.65863' angle='4.712389' width='91.5' depth='8.0' height='208.5' modelMirrored='true' movable='false' dropOnTopElevation='-0.004796163' wallThickness='0.51724136' wallDistance='0.06896552' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.05464481' yAxis='0.5862069' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <pieceOfFurniture catalogId='eTeks#texturableBox' name='Box' creator='eTeks' model='13/texturableBox.obj' icon='12' x='76.00001' y='-30.5' angle='3.1415927' width='30.0' depth='61.0' height='70.0'/>
+  <wall id='wall0' xStart='372.5' yStart='146.0' xEnd='390.5' yEnd='146.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall1' xStart='381.5' yStart='270.0' xEnd='381.5' yEnd='15.000015' height='250.0' thickness='12.0' pattern='hatchUp'/>
+  <wall id='wall2' xStart='372.5' yStart='261.0' xEnd='507.5' yEnd='261.0' height='250.0' thickness='12.0' pattern='hatchUp'/>
+  <wall id='wall3' xStart='372.5' yStart='555.0' xEnd='372.5' yEnd='605.0' height='250.0' thickness='30.0' pattern='hatchUp'>
+    <texture attribute='rightSideTexture' name='Wood paneling' catalogId='OlaKristianHoff#sauna_panel' width='100.0' height='100.0' image='18'/>
+  </wall>
+  <wall id='wall4' wallAtStart='wall8' xStart='15.0' yStart='15.0' xEnd='390.5' yEnd='15.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall5' wallAtStart='wall14' wallAtEnd='wall6' xStart='507.5' yStart='605.0' xEnd='376.0' yEnd='605.0' height='250.0' thickness='30.0' pattern='hatchUp'>
+    <texture attribute='leftSideTexture' name='Wood paneling' catalogId='OlaKristianHoff#sauna_panel' width='100.0' height='100.0' image='18'/>
+  </wall>
+  <wall id='wall6' wallAtStart='wall5' wallAtEnd='wall7' xStart='376.0' yStart='605.0' xEnd='376.0' yEnd='555.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall7' wallAtStart='wall6' wallAtEnd='wall8' xStart='376.0' yStart='555.0' xEnd='15.0' yEnd='555.0' height='250.0' thickness='30.0' pattern='hatchUp'>
+    <texture attribute='leftSideTexture' name='Wood paneling' catalogId='OlaKristianHoff#sauna_panel' width='100.0' height='100.0' image='18'/>
+  </wall>
+  <wall id='wall8' wallAtStart='wall7' xStart='15.0' yStart='555.0' xEnd='15.0' yEnd='15.0' height='250.0' thickness='30.0' pattern='hatchUp'>
+    <texture attribute='leftSideTexture' name='Red bricks' catalogId='OlaKristianHoff#red_bricks' width='50.0' height='50.0' image='19'/>
+  </wall>
+  <wall id='wall9' xStart='15.0' yStart='555.0' xEnd='15.0' yEnd='620.0' height='250.0' thickness='30.0' pattern='hatchUp'>
+    <texture attribute='leftSideTexture' name='Wood paneling' catalogId='OlaKristianHoff#sauna_panel' width='100.0' height='100.0' image='18'/>
+    <texture attribute='rightSideTexture' name='Red bricks' catalogId='OlaKristianHoff#red_bricks' width='50.0' height='50.0' image='19'/>
+  </wall>
+  <wall id='wall10' xStart='621.0' yStart='15.000015' xEnd='651.0' yEnd='15.000015' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall11' wallAtStart='wall25' xStart='-15.0' yStart='15.0' xEnd='-14.999997' yEnd='-97.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall12' xStart='621.0' yStart='15.0' xEnd='621.0' yEnd='285.0' height='250.0' thickness='30.0' pattern='hatchUp'>
+    <texture attribute='leftSideTexture' name='Red bricks' catalogId='OlaKristianHoff#red_bricks' width='50.0' height='50.0' image='19'/>
+  </wall>
+  <wall id='wall13' xStart='621.0' yStart='270.0' xEnd='507.5' yEnd='270.0' height='250.0' thickness='30.0' pattern='hatchUp'>
+    <texture attribute='leftSideTexture' name='Wood paneling' catalogId='OlaKristianHoff#sauna_panel' width='100.0' height='100.0' image='18'/>
+  </wall>
+  <wall id='wall14' wallAtEnd='wall5' xStart='507.5' yStart='252.0' xEnd='507.5' yEnd='605.0' height='250.0' thickness='30.0' pattern='hatchUp'>
+    <texture attribute='leftSideTexture' name='Wood paneling' catalogId='OlaKristianHoff#sauna_panel' width='100.0' height='100.0' image='18'/>
+  </wall>
+  <wall id='wall15' wallAtEnd='wall16' xStart='-15.0' yStart='-112.0' xEnd='21.5' yEnd='-112.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall16' wallAtStart='wall15' wallAtEnd='wall17' xStart='21.5' yStart='-112.0' xEnd='21.5' yEnd='-114.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall17' wallAtStart='wall16' wallAtEnd='wall18' xStart='21.5' yStart='-114.0' xEnd='-15.0' yEnd='-114.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall18' wallAtStart='wall17' wallAtEnd='wall19' xStart='-15.0' yStart='-114.0' xEnd='-15.0' yEnd='-237.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall19' wallAtStart='wall18' wallAtEnd='wall20' xStart='-15.0' yStart='-237.0' xEnd='21.5' yEnd='-237.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall20' wallAtStart='wall19' wallAtEnd='wall21' xStart='21.5' yStart='-237.0' xEnd='21.5' yEnd='-237.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall21' wallAtStart='wall20' wallAtEnd='wall22' xStart='21.5' yStart='-237.0' xEnd='-15.0' yEnd='-239.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall22' wallAtStart='wall21' wallAtEnd='wall23' xStart='-15.0' yStart='-239.0' xEnd='-15.0' yEnd='-376.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall23' wallAtStart='wall22' xStart='-15.0' yStart='-376.0' xEnd='386.5' yEnd='-376.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall24' xStart='379.5' yStart='15.0' xEnd='-15.0' yEnd='15.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall25' wallAtEnd='wall11' xStart='15.0' yStart='15.0' xEnd='-15.0' yEnd='15.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall26' xStart='645.0' yStart='14.969168' xEnd='372.0' yEnd='15.530895' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall27' wallAtEnd='wall28' xStart='376.5' yStart='-273.3' xEnd='650.0' yEnd='-273.3' height='250.0' thickness='14.0' pattern='hatchUp'/>
+  <wall id='wall28' wallAtStart='wall27' wallAtEnd='wall29' xStart='650.0' yStart='-273.3' xEnd='650.0' yEnd='13.635898' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall29' wallAtStart='wall28' xStart='650.0' yStart='13.635898' xEnd='376.5' yEnd='14.197499' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <wall id='wall30' xStart='386.5' yStart='-376.0' xEnd='386.5' yEnd='15.0' height='250.0' thickness='14.0' pattern='hatchUp'/>
+  <wall id='wall31' wallAtEnd='wall32' xStart='346.089' yStart='15.0' xEnd='343.4223' yEnd='263.33337' height='250.0' thickness='12.0' pattern='hatchUp'/>
+  <wall id='wall32' wallAtStart='wall31' xStart='343.4223' yStart='263.33337' xEnd='387.8333' yEnd='263.33337' height='250.0' thickness='12.0' pattern='hatchUp'/>
+  <wall id='wall33' xStart='21.5' yStart='-112.0' xEnd='21.5' yEnd='-114.0' height='250.0' thickness='30.0' pattern='hatchUp'/>
+  <room name='Living Space' ceilingVisible='false'>
+    <point x='30.0' y='30.0'/>
+    <point x='375.5' y='30.0'/>
+    <point x='375.5' y='267.0'/>
+    <point x='492.5' y='267.0'/>
+    <point x='492.5' y='590.0'/>
+    <point x='391.0' y='590.0'/>
+    <point x='391.0' y='540.0'/>
+    <point x='30.0' y='540.0'/>
+  </room>
+  <room name='Bathroom' nameXOffset='-1.777771' nameYOffset='3.555542' ceilingVisible='false'>
+    <point x='387.5' y='30.0'/>
+    <point x='606.0' y='30.0'/>
+    <point x='606.0' y='255.0'/>
+    <point x='387.5' y='255.0'/>
+  </room>
+  <room name='Kitchen' ceilingVisible='false'>
+    <point x='0.0' y='0.0'/>
+    <point x='0.0' y='-97.0'/>
+    <point x='36.5' y='-97.0'/>
+    <point x='36.5' y='-129.0'/>
+    <point x='0.0' y='-129.0'/>
+    <point x='0.0' y='-222.0'/>
+    <point x='36.5' y='-222.0'/>
+    <point x='36.5' y='-254.0'/>
+    <point x='0.0' y='-254.0'/>
+    <point x='0.0' y='-361.0'/>
+    <point x='377.5' y='-361.0'/>
+    <point x='377.5' y='0.0'/>
+  </room>
+  <room name='Utility Room' ceilingVisible='false'>
+    <point x='391.5' y='-0.8333359'/>
+    <point x='391.5' y='-266.33334'/>
+    <point x='635.0' y='-266.33334'/>
+    <point x='635.0' y='-1.3333359'/>
+  </room>
+  <dimensionLine xStart='399.5' yStart='-280.86737' xEnd='480.5' yEnd='-280.86737' offset='46.582977'/>
+  <dimensionLine xStart='-1.5' yStart='-344.95108' xEnd='377.5' yEnd='-344.95108' offset='-87.79663'/>
+  <dimensionLine xStart='105.94444' yStart='-362.43292' xEnd='105.94444' yEnd='-1.4329224' offset='191.76254'/>
+  <dimensionLine xStart='352.4041' yStart='-361.0996' xEnd='352.4041' yEnd='-0.099609375' offset='-452.0'/>
+  <dimensionLine xStart='557.7375' yStart='2.0115051' xEnd='557.7375' yEnd='-264.9885' offset='214.66663'/>
+  <dimensionLine xStart='30.0708' yStart='454.9004' xEnd='491.0708' yEnd='454.9004' offset='286.66663'/>
+  <dimensionLine xStart='337.73743' yStart='262.9004' xEnd='492.73743' yEnd='262.9004' offset='37.333313'/>
+  <dimensionLine xStart='51.07077' yStart='30.90039' xEnd='51.07077' yEnd='538.9004' offset='198.66666'/>
+  <dimensionLine xStart='441.73743' yStart='28.233704' xEnd='441.73743' yEnd='256.2337' offset='-293.3333'/>
+  <dimensionLine xStart='468.4041' yStart='268.2337' xEnd='468.4041' yEnd='589.2337' offset='-269.33337'/>
+  <dimensionLine xStart='480.84857' yStart='268.2337' xEnd='480.84857' yEnd='255.2337' offset='269.3333'/>
+  <dimensionLine xStart='31.07077' yStart='61.12262' xEnd='339.07077' yEnd='61.12262' offset='-2.666687'/>
+  <dimensionLine xStart='325.29303' yStart='-361.9885' xEnd='325.29303' yEnd='-300.9885' offset='-0.888855'/>
+  <dimensionLine xStart='308.4041' yStart='-338.87738' xEnd='377.4041' yEnd='-338.87738' offset='-68.44446'/>
+  <dimensionLine xStart='606.1819' yStart='246.01147' xEnd='636.1819' yEnd='246.01147' offset='81.77783'/>
+  <dimensionLine xStart='28.404144' yStart='654.01154' xEnd='389.40414' yEnd='654.01154' offset='0.0'/>
+  <dimensionLine xStart='391.0708' yStart='518.9004' xEnd='491.0708' yEnd='518.9004' offset='136.0'/>
+  <dimensionLine xStart='394.62634' yStart='590.0115' xEnd='394.62634' yEnd='540.0115' offset='181.33331'/>
+  <dimensionLine xStart='386.62634' yStart='78.90039' xEnd='605.62634' yEnd='78.90039' offset='-389.3333'/>
+  <dimensionLine xStart='605.293' yStart='-11.766266' xEnd='634.293' yEnd='-11.766266' offset='-298.66666'/>
+</home>
